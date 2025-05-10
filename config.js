@@ -27,7 +27,7 @@ module.exports = {
   ALWAYS_ONLINE: toBool(process.env.ALWAYS_ONLINE) || false,
   WARN_COUNT: process.env.WARN_COUNT  || '3',
   AUTO_STATUS_VIEW: toBool(process.env.AUTO_STATUS_VIEW) || false,
-  SESSION_ID: process.env.SESSION_ID || "izumi session",
+  SESSION_ID: process.env.SESSION_ID || "izumi~ubumumonep",
   MENU_URL: process.env.MENU_URL || "https://cdn.eypz.ct.ws/url/08-05-25_09-55_6ijf.png",
   CAPTION: process.env.CAPTION || "Made with 🤍",
   READ_MSG: toBool(process.env.READ_MSG),
